@@ -1,7 +1,7 @@
 {
-    "clientID": "SQweSjXZXnJMVuYiO9vZa59PEYca",
-    "baseUrl": "https://api.asgardeo.io/t/iorg",
-    "signInRedirectURL": "https://book-store.choreoapps.dev",
-    "signOutRedirectURL": "https://book-store.choreoapps.dev",
+    "clientID": "2Q8BgN6sw73qOf8z2qhWip_YVSoa",
+    "baseUrl": "https://api.asgardeo.io/t/onaliy",
+    "signInRedirectURL": "https://1d423013-8e37-46e1-8e9c-cd9a0c6ca518.e1-us-east-azure.choreoapps.dev",
+    "signOutRedirectURL": "https://1d423013-8e37-46e1-8e9c-cd9a0c6ca518.e1-us-east-azure.choreoapps.dev",
     "scope": ["profile"]
 }
